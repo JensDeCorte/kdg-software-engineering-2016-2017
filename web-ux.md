@@ -23,8 +23,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - De Corte Jens
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: jens.decorte@student.kdg.be
+	- github: https://github.com/JensDeCorte/software-engineering.git
 
 - De Munter Michael
 	- e-mailadres: naam@student.kdg.be
